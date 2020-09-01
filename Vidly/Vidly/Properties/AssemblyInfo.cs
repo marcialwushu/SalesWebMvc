@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("VidlyWebMvc")]
+[assembly: AssemblyTitle("Vidly")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("VidlyWebMvc")]
+[assembly: AssemblyProduct("Vidly")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7bfd172c-bd5a-4142-9d8b-7132fb92f6a9")]
+[assembly: Guid("7e594e1d-28ad-46ae-b112-af1830597344")]
 
 // Version information for an assembly consists of the following four values:
 //
