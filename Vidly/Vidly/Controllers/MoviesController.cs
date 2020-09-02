@@ -13,7 +13,11 @@ namespace Vidly.Controllers
         public ActionResult Random()
         {
             var movie = new Movie() { Name = "Shrek!" };
-            return View(movie);
+
+            ViewData["RandomMovie"] = movie;
+            ViewBag.RandomMovie = movie;
+
+            return View();
         }
 
         public ActionResult Edit(int id)
